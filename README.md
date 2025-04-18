@@ -6,9 +6,9 @@ This project was developed for the CSE 573 (Semantic Web Mining) course at Arizo
 ```
 .
 ├── App                    # UI files for the dashboard 
-├── Code                    # Python scripts and notebooks
-├── Data                     # Contains BankSim data files
-└── README.md               # Project overview and setup instructions
+├── Code                   # Python scripts and notebooks
+├── Data                   # Contains BankSim data files
+└── README.md              # Project overview and setup instructions
 ```
 
 #### Source Files
@@ -47,17 +47,15 @@ Execute the following commands in a terminal:
 - Py2neo - v4.3.0
 - imblearn - v0.6.2
 
-### About the Project
-This project aims to detect fraud in banking transactions by integrating graph databases with machine learning algorithms.
-
+### Languages Used
+- Jupyter Notebook: 90%
+- JavaScript: 4.6%
+- Python: 4.4%
+- HTML: 1%
+  
 ### Repository Details
 - **Stars**: 17
 - **Watchers**: 2
 - **Forks**: 7
 - **Contributors**: Aishika Rathnala, Teja Naidu Koppineni, Omkar Thipparthi, Anshul Mallick, Jimeet Shah
 
-### Languages Used
-- Jupyter Notebook: 90%
-- JavaScript: 4.6%
-- Python: 4.4%
-- HTML: 1%
