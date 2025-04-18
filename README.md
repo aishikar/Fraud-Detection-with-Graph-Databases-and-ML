@@ -54,7 +54,7 @@ This project aims to detect fraud in banking transactions by integrating graph d
 - **Stars**: 17
 - **Watchers**: 2
 - **Forks**: 7
-- **Contributors**: Omkar Thipparthi, Anshul Mallick, Jimeet Shah
+- **Contributors**: Aishika Rathnala, Teja Naidu Koppineni, Omkar Thipparthi, Anshul Mallick, Jimeet Shah
 
 ### Languages Used
 - Jupyter Notebook: 90%
